@@ -1,5 +1,5 @@
 # Trippie-Red 
-hjsdgfhgasdiuasDfasduyy
-these
-are
-lines
+[Syllabus](/syllabus.md)
+
+
+[Course Description](/course.md)
