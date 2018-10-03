@@ -3,3 +3,6 @@
 
 
 [Course Description](/course.md)
+
+
+[People of Interest](/PeopleofInterest.md)
